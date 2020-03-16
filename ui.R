@@ -24,7 +24,7 @@ ui <- dashboardPage(
       notificationItem(
         text='Project Readme',
         icon=icon('question'),
-        href='https://github.com/mohit2152sharma/rcoronavirus'
+        href='https://github.com/rcoronavirustracker/rcoronavirus2'
       )
     ),
       tags$li(
